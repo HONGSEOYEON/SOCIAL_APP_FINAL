@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">HongSI</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_gomain">Go!</string>
+    <string name="btn_logout">logout</string>
+    <string name="name">Fullname</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_home">Add Class</string>
+    <string name="nav_item_friends">Edit Class</string>
+    <string name="nav_item_notifications">로그아웃</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_friends</item>
+        <item>@string/nav_item_notifications</item>
+    </string-array>
+
+    <string-array name="Hello">
+        <item>Hello</item>
+        <item>Welcome Back!</item>
+    </string-array>
+
+    <!--<string name="mon">월</string>-->
+    <!--<string name="tue">화</string>-->
+    <!--<string name="">월</string>-->
+    <!--<string name="mon">월</string>-->
+    <!--<string name="mon">월</string>-->
+    <string-array name="week_name">
+        <item>월요일</item>
+        <item>화요일</item>
+        <item>수요일</item>
+        <item>목요일</item>
+        <item>월요일</item>
+    </string-array>
+
+    <string name="title_messages">Messages</string>
+    <string name="title_friends">Friends</string>
+    <string name="title_home">Home</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="addclass">AddClass</string>
+    <string name="Editclass">EditClass</string>
+</resources>
